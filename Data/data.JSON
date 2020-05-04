@@ -1,0 +1,39 @@
+[
+    {
+        "id": 0,
+        "name": "John Doe",
+        "address": "Montego Bay",
+        "email": "john.doe@test.com",
+        "picture": "http://placehold.it/32x32",
+        "age": 23,
+        "eyeColor": "brown"
+    },
+    {
+        "id": 1,
+        "name": "Hensley Matthews",
+        "address": "Montego Bay",
+        "email": "hensleymatthews@dadabase.com",
+        "picture": "http://placehold.it/32x32",
+        "age": 61,
+        "eyeColor": "red"
+    },
+    {
+        "id": 2,
+        "name": "Rachelle Oneil",
+        "address": "Montego Bay",
+        "email": "rachelleoneil@comtours.com",
+        "picture": "http://placehold.it/32x32",
+        "age": 26,
+        "eyeColor": "black"
+    },
+    {
+        "id": 3,
+        "name": "Schwartz Mccarthy",
+        "address": "Montego Bay",
+        "email": "schwartzmccarthy@intradisk.com",
+        "picture": "http://placehold.it/32x32",
+        "age": 46,
+        "eyeColor": "green"
+    }
+
+]
